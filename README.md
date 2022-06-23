@@ -1,7 +1,7 @@
-(https://media-exp1.licdn.com/dms/image/C4D03AQFVCvgoG4ilFw/profile-displayphoto-shrink_200_200/0/1655213090876?e=1661385600&v=beta&t=khSmAP2MQlSfClLXEMQMLr6eCjVZGmSqa51nfED2eIU)
+
 ### Shimul Majumdar Shuvo
 #### MREN Stack Developer || Front End Developer
-![MREN Stack Developer || Front End Developer]
+![MREN Stack Developer || Front End Developer](https://media-exp1.licdn.com/dms/image/C4D03AQFVCvgoG4ilFw/profile-displayphoto-shrink_200_200/0/1655213090876?e=1661385600&v=beta&t=khSmAP2MQlSfClLXEMQMLr6eCjVZGmSqa51nfED2eIU)
 
 I want to be a professional Web Developer. I am always trying my best hard work and dedicated in this field at Web Development.This time I will reach the goal of success with hard work. Over the next four months I will prepare myself to be a good web developer. My passion was to develop my skills and reach a good position. I will work hard to fulfill my desire.
 
