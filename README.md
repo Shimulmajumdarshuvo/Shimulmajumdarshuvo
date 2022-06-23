@@ -1,10 +1,12 @@
-### Hi there 👋, Shimul Majumdar Shuvo
+(https://media-exp1.licdn.com/dms/image/C4D03AQFVCvgoG4ilFw/profile-displayphoto-shrink_200_200/0/1655213090876?e=1661385600&v=beta&t=khSmAP2MQlSfClLXEMQMLr6eCjVZGmSqa51nfED2eIU)
+### Shimul Majumdar Shuvo
 #### MREN Stack Developer || Front End Developer
-![MREN Stack Developer || Front End Developer](https://media-exp1.licdn.com/dms/image/C4D16AQEBCx3kM7XEOw/profile-displaybackgroundimage-shrink_200_800/0/1655293413256?e=1661385600&v=beta&t=QLgCkVbQZCgYEawDeFQYzqrdGp_fiwCUqr76s6iGio8)
+![MREN Stack Developer || Front End Developer]
 
 I want to be a professional Web Developer. I am always trying my best hard work and dedicated in this field at Web Development.This time I will reach the goal of success with hard work. Over the next four months I will prepare myself to be a good web developer. My passion was to develop my skills and reach a good position. I will work hard to fulfill my desire.
 
 Skills: VUE JS / REACT / JS / HTML / CSS /Bootstarp/Tailwind 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Shimulmajumdarshuvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shimul-majumdar-a4ab4820b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/shimulmajumdar.shuvo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@ShimulMajumdar2)  
